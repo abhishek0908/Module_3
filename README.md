@@ -1,5 +1,5 @@
 
-# Django
+# Karbon card Assignment
 
 ## Demo
 
@@ -22,7 +22,8 @@ On Windows:
 
 Install the dependencies:
 
-    pip install -r requirements.txt
+    pip install python
+    pip install django
 
 Set up the database:
 
